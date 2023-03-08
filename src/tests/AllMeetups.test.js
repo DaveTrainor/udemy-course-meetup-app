@@ -7,5 +7,5 @@ import React from "react";
 
 
 test ('returns 200 reponse when page is requested', ()=>{
-    expect (1+1).toEqual(2);
+    expect(1+1).toEqual(2);
 });
